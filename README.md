@@ -2,7 +2,7 @@
 A DIY Arduino Nano proximity sensor for your car
 
 ## What is this?
-LUSA is a begginer-friendly Arduino project which combines basic PCB designing and 3D printing to make a simple, yet useful, proximity sensor for your car.
+LUSA is a begginer-friendly Arduino project which combines basic PCB designing and 3D printing to make a simple, yet useful, proximity sensor for your car. Similarly to modern cars it uses a speaker/buzzer to beep more and more if the car gets way to close to an obstacle. This project also adds some LEDs to know better how close you are!
 
 ## Which skills do I need?
 The basic skills needed for doing this project yourself are:
