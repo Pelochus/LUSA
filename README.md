@@ -24,7 +24,7 @@ The parts used are:
 - x1 Ultrasonic sensor (I used SR04)
 - Arduino Nano (preferably with pins attached to it)
 - The PCB in this repo (can be ordered online)
-- The case in this for the PCB
+- The case for the PCB
 - The case for protecting the SR04 (if you use this one)
 
 I assume you also have:
