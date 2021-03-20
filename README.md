@@ -39,6 +39,7 @@ These are the steps to make LUSA yourself:
 - Order your PCB (I ordered mine on [JLCPCB](jlcpcb.com))
 - If your PCB comes along with other PCBs in the same board, cut it
 - Solder the components to the PCB
+- Flash program to Arduino and make sure it works
 - Make sure it is cut properly, if it is too big it may not fit in the case
 - Take measurements and modify case accordingly (if necessary)
 - If it fits correctly, now it is time to solder the ultrasonic sensor (outside case, of course)
