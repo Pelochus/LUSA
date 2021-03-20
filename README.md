@@ -32,3 +32,5 @@ I assume you also have:
 - A soldering iron or soldering station
 - A 3D printer (or access to a service like [Shapeways](shapeways.com))
 - Some cables to attach the sensor to the Arduino
+
+## Pictures
