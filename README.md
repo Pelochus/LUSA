@@ -42,6 +42,7 @@ These are the steps to make LUSA yourself:
 - Flash program to Arduino and make sure it works
 - Make sure it is cut properly, if it is too big it may not fit in the case
 - Take measurements and modify case accordingly (if necessary)
+- Print case for LUSA and for the SR04
 - If it fits correctly, now it is time to solder the ultrasonic sensor (outside case, of course)
 - Done!
 
