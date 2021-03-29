@@ -30,13 +30,13 @@ The parts used are:
 I assume you also have:
 - A PC for flashing to Arduino
 - A soldering iron or soldering station
-- A 3D printer (or access to a service like [Shapeways](shapeways.com))
+- A 3D printer (or access to a service like [Shapeways](https://shapeways.com))
 - Some cables to attach the sensor to the Arduino
 
 ## Instructions
 These are the steps to make LUSA yourself:
 - First I recommend trying it on a breadboard to make sure your components work (especially if trying different components or adding extra features to LUSA)
-- Order your PCB (I ordered mine on [JLCPCB](jlcpcb.com))
+- Order your PCB (I ordered mine on [JLCPCB](https://jlcpcb.com))
 - If your PCB comes along with other PCBs in the same board, cut it
 - Solder the components to the PCB
 - Flash program to Arduino and make sure it works
