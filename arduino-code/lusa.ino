@@ -81,7 +81,7 @@ void loop() {
 
       // LEDs and Buzzer controlling 
       digitalWrite(buzzerPin, HIGH);
-      digitalWrite(current_led, HIGH);
+      digitalWrite(current_led, HIGH); // turns on led
       delay(std_delay);
       digitalWrite(buzzerPin, LOW);
       
