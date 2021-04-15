@@ -86,7 +86,7 @@ void loop() {
       digitalWrite(buzzerPin, LOW);
       
       delay(sound_delay); // higher refresh if distance is too low
-      sound_delay = 25; // makes it the original value again (to avoid getting infinetely bigger)
+      sound_delay = 25; // makes it the original value again (to avoid getting infinitely bigger)
       digitalWrite(current_led, LOW); // turns off led
       
       digitalWrite(buzzerPin, HIGH);
