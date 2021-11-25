@@ -51,7 +51,7 @@ The actual last step is installing LUSA in your car. In my case, I connected it 
 
 ## Video
 
-[![LUSADemo](https://github.com/Pelochus/LUSA/blob/2ad391405f70bb182f89a12ce812b457eeb15ea5/images/LUSA.mp4)]
+https://youtu.be/RLx85ZfLV_0
 
 ## Pictures
 
