@@ -39,11 +39,12 @@ These are the steps to make LUSA yourself:
 - Order your PCB (I ordered mine on [JLCPCB](https://jlcpcb.com))
 - If your PCB comes along with other PCBs in the same board, cut it
 - Solder the components to the PCB
-- Flash program to Arduino and make sure it works
+- Flash the program to Arduino and make sure it works
 - Make sure it is cut properly, if it is too big it may not fit in the case
 - Take measurements and modify case accordingly (if necessary)
-- Print case for LUSA and for the SR04
-- If it fits correctly, now it is time to solder the ultrasonic sensor (outside case, of course)
+- Print the case for LUSA and for the SR04
+- If it fits correctly, time to solder the ultrasonic sensor (outside the case, of course)
+- In my case, I soldered some male-to-female wires to the PCB, while using the female part to connect to the SR04 sensor
 - Done!
 
 The actual last step is installing LUSA in your car. In my case, I connected it to the reversing lights circuit so that LUSA only powers when going backwards. Take into account that the sensor (the one I used at least) isn't waterproof, so try to make easily detachable, in order to remove it when cleaning the car.
