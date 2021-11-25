@@ -50,3 +50,13 @@ These are the steps to make LUSA yourself:
 The actual last step is installing LUSA in your car. In my case, I connected it to the reversing lights circuit so that LUSA only powers when going backwards. Take into account that the sensor (the one I used at least) isn't waterproof, so try to make easily detachable, in order to remove it when cleaning the car.
 
 ## Pictures
+
+![Prototype1](images/prototype1.jpg)
+
+![Prototype2](images/prototype2.jpg)
+
+![InsideCase](images/insidecase.jpg)
+
+![Case](images/case.jpg)
+
+![Case](images/LUSA.mp4)
