@@ -10,7 +10,7 @@ The basic skills needed for doing this project yourself are:
 - Very basic Arduino knowledge
 - Knowing well your car
 
-However I also recommend knowing this (especially for adjusting this project for yourself, or making some slight changes to, for example, the printable parts): 
+However, I also recommend knowing this (especially for adjusting this project for yourself, or making some slight changes to, for example, the printable parts): 
 - Basic coding skills (Arduino or similar languages like C/C++)
 - Basic 3D printing skills 
 - Basic PCB designing 
