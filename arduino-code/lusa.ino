@@ -63,23 +63,25 @@ void loop() {
       //        GREEN - SLIGHTLY FAR
       //        BLUE - FAR
       // change values inside if statements to vary the scale
-      if (distance < 35) {
+      if (distance < 40) {
         current_led = redPin;
       }
-      else if (distance < 70) {
+      else if (distance < 75) {
         current_led = yellowPin;
       }
-      else if (distance < 105) {
+      else if (distance < 110) {
         current_led = whitePin;
       }
-      else if (distance < 140) {
+      else if (distance < 145) {
         current_led = greenPin;
       }
       else {
         current_led = bluePin;
       }
 
-      // LEDs and Buzzer controlling 
+      // LEDs and Buzzer controlling
+      // Note how delays and digitalWrites are scattered around and not put with readability in mind
+      // This is done in order to achieve "concurrence" across sounds and lights
       digitalWrite(buzzerPin, HIGH);
       digitalWrite(current_led, HIGH); // turns on led
       delay(std_delay);
